@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PorePranav
-- 👀 I’m interested in Web Development, Ethical Hacking, App Development
+- 👀 I’m interested in Web Development, Ethical Hacking, Blockchain
 - 🌱 I’m currently learning Java.
 - 📫 How to reach me Email : pranav@pranavpore.com Instagram : pranav.js
 
