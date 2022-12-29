@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=porepranav&label=Profile%20views&color=0e75b6&style=flat" alt="porepranav" /> </p>
 
-- 🔭 I’m currently working on **Building my skills**
+- 🔭 I’m currently working on my **Password Management Tool**
 
-- 🌱 I’m currently learning **Web Development, DSA**
+- 🌱 I’m currently learning **Web3, Blockchain, Ethereum, DSA**
 
 - 📫 How to reach me **pranav@pranavpore.com**
 
