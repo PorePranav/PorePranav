@@ -2,7 +2,8 @@
 <h3 align="center">A passionate developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=porepranav&label=Profile%20views&color=0e75b6&style=flat" alt="porepranav" /> </p>
-- 💻 I'm a **open-source contributor and cyber security enthusiast**
+
+- 🔭 I’m currently working on my **Password Management Tool**
 
 - 🔭 I’m currently working on my **Password Management Tool**
 
