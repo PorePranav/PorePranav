@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=porepranav&label=Profile%20views&color=0e75b6&style=flat" alt="porepranav" /> </p>
 
-- 💻 I’m a **Open-source contributor and Cyber-security enthusiast**
+- 💻 I’m a **Open-source contributor and a Blockchain, Cyber-security enthusiast**
 
 - 🔭 I’m currently working on my **Password Management Tool**
 
-- 🌱 I’m currently learning **Cyber-Security & DSA**
+- 🌱 I’m currently learning **Blockchain, DSA and Cyber-Security**
 
 - 📫 How to reach me **pranav@pranavpore.com**
 
