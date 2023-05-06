@@ -5,8 +5,6 @@
 
 - 💻 I’m a **Open-source contributor and a Blockchain, Cyber-security enthusiast**
 
-- 🔭 I’m currently working on my **Password Management Tool**
-
 - 🌱 I’m currently learning **Blockchain, DSA and Cyber-Security**
 
 - 📫 How to reach me **pranav@pranavpore.com**
